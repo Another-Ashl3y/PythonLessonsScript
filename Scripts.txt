@@ -1,0 +1,111 @@
+--------------------
+Intro
+--------------------
+Getting Started
+--------------------
+Syntax
+Comments
+Variables
+Print
+--------------------
+Data types
+Numbers
+Strings
+Casting
+Booleans
+--------------------
+If...Else
+Operators
+--------------------
+Lists
+Tuples
+Sets
+Dictionaries
+--------------------
+While loops
+For loops
+--------------------
+Functions
+--------------------
+Lambda
+Arrays
+--------------------
+Classes/Objects
+Inheritence
+--------------------
+Iterators
+Polymorphism
+Scope
+--------------------
+Modules
+--------------------
+Dates
+--------------------
+Math
+--------------------
+Json
+--------------------
+Black Jack
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+
+--- Intro ---
+Hello, this is a course about python
+which is a very beginner friendly 
+programming language that is quite 
+easy to learn.
+
+Despite it not being the best language
+for performance it is still used in a
+lot of applications such as web development,
+software development and some maths.
+
+In the next video we will look at installing
+python and a cool code editor. It's quite 
+easy.
+
+Cya
+
+-- Getting Started --
+
+Welcome back, in this video we will be installing
+python and a code editor and going over how to
+run code.
+
+To install python go over to
+https://www.python.org/downloads/
+and press download and then open the installer
+and follow the instructions *
+
+The code editor we will use is visual studio code
+which you can download on the website [link in description]
+https://code.visualstudio.com/download
+Select your OS and download and install it.
+
+If we open VScode there is a button here that says "extensions"
+Click that and go to the search bar.
+First we're going to install the python extension.
+[open it] and just click install
+I recommend installing "save-typing" too as it just saves
+a lot of time so you dont have to crtl-s every time you run.
+
+After installing these you can click the settings and go 
+to colour themes and install a theme you prefer. I am
+using [theme].
+
+After that click the files icon. Click file, open folder
+and then create a new folder for you first program. Then
+press open.
+
+Now we can create our first program. Create a file called
+firstProgram.py and then type print("hello world")
+
+If you installed everything correctly then you should be able
+to press the play button in the top right and a console will
+show up saying "hello world".
+
+Congratulations. You just made your first program.
+
+
+
+
+
